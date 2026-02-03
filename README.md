@@ -20,7 +20,7 @@ This is a simple Spring Boot application that acts as a Kafka Producer. It allow
 
 ### API Endpoint
 - To publish a message, send a GET request to: http://localhost:9494/producer-app/publish/{your_message}
-- Example: http://localhost:9494/producer-app/publish/HelloWorld
+- Example: http://localhost:9494/producer-app/publish/HelloWorld 
   
 ### About Author
 - Kajal Shakya- Java Backend Developer
